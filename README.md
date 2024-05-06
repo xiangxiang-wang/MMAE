@@ -5,7 +5,7 @@ The detailed code has been uploaded.
 这是文章 MMAE: A universal image fusion method via mask attention mechanism 的代码。
 详细代码已经上传。
 
-# 修改日期2024.05.26
+# 修改日期2024.05.06
 使用的数据集文件稍后会上传
 
 # 使用方法

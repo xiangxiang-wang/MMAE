@@ -26,6 +26,7 @@ The detailed code will be uploaded later.
 ## 保存的训练文件下载地址
 链接：https://pan.baidu.com/s/1pOE-7MzQ8KWa5NGgwz9AfA?pwd=yjig 
 提取码：yjig 
+
 或者直接使用pth文件夹中的epoch_82_loss_6.166936.pth文件
 
 # 关于引用

@@ -10,10 +10,12 @@ The detailed code has been uploaded.
 # 数据集 Datasets
 ## 训练数据集 Training Datasets
 link 链接：https://pan.baidu.com/s/1up-FGeMLt0_LQACDWjDYoQ?pwd=6356 
+
 extraction code 提取码：6356
 
 ## 测试数据集 Test Datasets
 link 链接：https://pan.baidu.com/s/1cP7DKddQHjxO6W6ABZc7cg?pwd=hwso 
+
 extraction code 提取码：hwso
 
 # 使用方法 How to use
@@ -51,6 +53,7 @@ Medical image fusion task test, running test-6.py
 Download address for saved training files
 
 link 链接：https://pan.baidu.com/s/1pOE-7MzQ8KWa5NGgwz9AfA?pwd=yjig 
+
 extraction code 提取码：yjig 
 
 或者直接使用pth文件夹中的epoch_82_loss_6.166936.pth文件

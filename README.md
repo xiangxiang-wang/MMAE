@@ -61,5 +61,20 @@ extraction code 提取码：yjig
 Or just use the epoch_82_loss_6.166936.pth file in the pth folder
 
 # 关于引用 About the citation
-文章尚在审稿，稍后会发布
-The article is still under review and will be posted later.
+文章已上线，欢迎引用。
+The article is now online. Feel free to cite it.
+
+Article Link 文章链接: https://www.sciencedirect.com/science/article/abs/pii/S0031320324007921
+
+@article{WANG2025111041,
+title = {MMAE: A universal image fusion method via mask attention mechanism},
+journal = {Pattern Recognition},
+volume = {158},
+pages = {111041},
+year = {2025},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2024.111041},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320324007921},
+author = {Xiangxiang Wang and Lixing Fang and Junli Zhao and Zhenkuan Pan and Hui Li and Yi Li}
+}
+

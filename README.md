@@ -26,13 +26,13 @@ Training method: you need to modify the dataset address in the TRAIN file and th
 
 红外和可见光图像融合任务的训练，运行train-5.py
 
-医学图像融合任务的训练，运行train-6.py
+医学图像融合任务的训练，运行train-4.py
 
 Training for the multifocus image fusion task, running train.py
 
 Training for infrared and visible image fusion task, running train-5.py
 
-Training for medical image fusion task, running train-6.py
+Training for medical image fusion task, running train-4.py
 
 ## 测试方法，需要根据实际情况修改test文件中训练参数的读取地址和融合图像保存地址
 Test method: you need to modify the reading address of the training parameters and the fusion image saving address in the TEST file according to the actual situation.
